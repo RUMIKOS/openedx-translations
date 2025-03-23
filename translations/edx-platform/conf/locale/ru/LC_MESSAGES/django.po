@@ -19791,4 +19791,4 @@ msgstr "Редактор кода"
 #: lms/templates/header/navbar-not-authenticated.html:53
 #: lms/templates/header/navbar-not-authenticated.html:57
 msgid "Register for free"
-msgstr "Репа загрпузилась"
+msgstr "Регистрация"
